@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    border: 2px dashed black;
+    margin: 25px 30px 30px 20px;
+    padding:25px 30px 30px 20px; ;
+}
+
+h2 {
+   font-size: 2rem; 
+   color: blue;
+   
+}
+
+.blue {
+    font-size: 150%;
+    color: blue;
+}
+p:hover {
+    color: red;
+}
+
